@@ -23,24 +23,6 @@ export default class GuestLayout extends React.PureComponent {
           </div>
         </header>
         <br />
-        <div className="wrapper container p-l-md p-r-md">
-          <div className="columns">
-            <main className="column main">
-              <div className="level">
-                <div className="level-left">
-                  <div className="level-item">
-                    <div className="title has-text-primary">
-                      <i className="fa fa-tachometer" />
-                      {' '}
-                      Dashboard
-                    </div>
-                  </div>
-                </div>
-              </div>
-              {children}
-            </main>
-          </div>
-        </div>
       </div>
     );
   }

@@ -41,6 +41,7 @@
     "@pawjs/srcset": "^2.1.0-beta.0",
     "@types/react": "^16.8.10",
     "@types/react-dom": "^16.8.3",
+    "axios": "^0.18.0",
     "bulma": "^0.7.4",
     "cloudinary": "^1.14.0",
     "eslint-import-resolver-webpack": "^0.11.0",
